@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Industrial Automation**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and C programming**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/isakmohamed](https://www.linkedin.com/in/isakmohamed)
 

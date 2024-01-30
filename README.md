@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/isakmohamed](https://www.linkedin.com/in/isakmohamed)
 
-- 💬 Ask me about **Electrics and Electronics, Automation**
+- 💬 Ask me about **Electrics and Electronics, Industrial Automation**
 
 - 📫 How to reach me **isakmohamed415@gmail.com**
 

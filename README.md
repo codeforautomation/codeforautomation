@@ -1,18 +1,19 @@
 
+[!MasterHead](https://media.licdn.com/dms/image/D5616AQGmdT4Tpt5HYw/profile-displaybackgroundimage-shrink_350_1400/0/1706542877359?e=1712188800&v=beta&t=WLcm8380gyF7HXHkq3dW_FMd0Mol9yZaFZqhWaHlh1E)](https://media.licdn.com/dms/image/D5603AQGXQDhXYQoL8Q/profile-displayphoto-shrink_400_400/0/1706537696440?e=1712188800&v=beta&t=aYhhubayMI2FUuDFa8By10IUcCX6D1g7uZth2vaa0_M)
 <h1 align="center">Hi 👋, I'm Isak Mohamed</h1>
 <h3 align="center">Interested in Industrial automations</h3>
 <img align="right" alt="Coding" width="400" src="https://www.pvrcontrols.com/assets/images/product/3.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeforautomation&label=Profile%20views&color=0e75b6&style=flat" alt="codeforautomation" /> </p>
 
-- 🔭 I’m currently working on *Industrial Automation*
+- 🔭 I’m currently working on **Industrial Automation**
 
-- 🌱 I’m currently learning *Python*
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/isakmohamed](https://www.linkedin.com/in/isakmohamed)
 
-- 💬 Ask me about *Electrics and Electronics, Automation*
+- 💬 Ask me about **Electrics and Electronics, Automation**
 
-- 📫 How to reach me *isakmohamed415@gmail.com*
+- 📫 How to reach me **isakmohamed415@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1qebt2vN7AApi0iHuZo3X722w2bvZA1M06IXojWAP1qw/edit?usp=drivesdk](https://docs.google.com/document/d/1qebt2vN7AApi0iHuZo3X722w2bvZA1M06IXojWAP1qw/edit?usp=drivesdk)
 
